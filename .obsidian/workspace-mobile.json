@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "52f6029c23390dce",
+    "type": "split",
+    "children": [
+      {
+        "id": "59b65dd1837da451",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a65f75843b97307",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Demo Documents/Приклад оформлення.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9877c86dd71de60",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "da788f7da18d9203",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "31eb7cb546ffa0d8",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b192ba8ad4328bb4",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d360a4549184f6aa",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "781709f6cf6701c1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "960e5d8d11471dee",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Demo Documents/Приклад оформлення.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "18de025436c59806",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Demo Documents/Приклад оформлення.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3965a0bb8e900dd5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Demo Documents/Приклад оформлення.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню швидкого переходу": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити палітру команд": false
+    }
+  },
+  "active": "7a65f75843b97307",
+  "lastOpenFiles": [
+    "README.md",
+    "Demo Documents/pdf-test.pdf",
+    "Demo Documents/Приклад оформлення.md",
+    "Demo Documents/markdown-sample2.md"
+  ]
+}
