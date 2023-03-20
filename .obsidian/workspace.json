@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "b2b149290c2d9a2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "633cb2e880f0e255",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f5afbfb08e67f4d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1969b8d78fae7cfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ff2ba756a581803",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5c47956c7d9f728",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "498d388ea9ceff60",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7943f12b731d0d48",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1bb90de24a04b48e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e884ea87f1b34da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8eab73a4111fe6d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0fd986b91827556b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45ea4a207c6bc3d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5cb49946d4cd8ff2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню швидкого переходу": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити палітру команд": false
+    }
+  },
+  "active": "3f5afbfb08e67f4d",
+  "lastOpenFiles": [
+    "metadata.json",
+    "notes/images/obsidian-settings.png",
+    "notes/images/google-domains.png",
+    "notes/images/github-pages.png",
+    "notes/images/github-actions.png",
+    "notes/preview changes.md",
+    "notes/updating.md",
+    "notes/troubleshooting.md",
+    "notes/showcase.md",
+    "notes/setup.md",
+    "notes/search.md",
+    "notes/philosophy.md",
+    "notes/obsidian.md",
+    "notes/images",
+    "notes/ignore notes.md",
+    "notes/hosting.md",
+    "notes/editing.md",
+    "notes/docker.md",
+    "notes/custom Domain.md",
+    "notes/config.md",
+    "notes/CJK + Latex Support (测试).md",
+    "notes/callouts.md",
+    "notes",
+    "_index.md",
+    "templates/post.md",
+    "templates",
+    "private/private-note.md",
+    "private",
+    "README.md",
+    "Без назви.canvas",
+    "test_img.png"
+  ]
+}
