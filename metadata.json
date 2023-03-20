@@ -1,10 +1,10 @@
 [
   {
-    "fileName": "README",
-    "relativePath": "README.md",
+    "fileName": "_index",
+    "relativePath": "_index.md",
     "tags": [
       "testtag",
-      "readme",
+      "_index",
       "dash-after",
       "tag-test"
     ],
@@ -95,9 +95,9 @@
     },
     "backlinks": [
       {
-        "fileName": "README",
+        "fileName": "_index",
         "link": "markdown-sample3",
-        "relativePath": "README.md",
+        "relativePath": "_index.md",
         "displayText": "Call outs"
       }
     ]
@@ -168,9 +168,9 @@
     ],
     "backlinks": [
       {
-        "fileName": "README",
+        "fileName": "_index",
         "link": "markdown-sample2",
-        "relativePath": "README.md",
+        "relativePath": "_index.md",
         "displayText": "Demo Documents/markdown-sample2"
       },
       {
@@ -228,9 +228,9 @@
     ],
     "backlinks": [
       {
-        "fileName": "README",
+        "fileName": "_index",
         "link": "markdown-sample",
-        "relativePath": "README.md",
+        "relativePath": "_index.md",
         "displayText": "Demo Documents/markdown-sample"
       }
     ]
